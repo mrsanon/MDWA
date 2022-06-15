@@ -1,14 +1,14 @@
 {
-    "name": "Dark Max- MD",
-    "description": "DARK MAX BOT.SPONSER AQUA BOT.",
+    "name": "ASIATA ",
+    "description": "SL-ASIATA WA BOT",
     "logo": "https://i.ibb.co/YcBZhTN/4a13d132-a99b-4b07-9309-25b1d0b1c231-jpg.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "repository": "https://github.com/mrsanon/MDWA",
+    "website":   "https://github.com/Thisan04",
+    "success_url": "https://github.com/Thisan04",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "ASIATA_SESSION": {
             "description": "",
             "required": true
              },
@@ -26,7 +26,7 @@
       },
            "URL_1LINK": {
             "description": "මේක වෙනස් කරන්න එපා",
-            "value": "wa.me/94715264791" ,
+            "value": "wa.me/94766816809" ,
             "required": true
       },
      "URL_2NAME": {
@@ -41,7 +41,7 @@
       },
        "FOOTER": {
             "description": "මේක වෙනස් කරන්න එපා",
-            "value": "POWERED BY DARK MAX BOT ²⁰²²" ,
+            "value": "POWERED BY ASIATA BOT ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -51,7 +51,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© DARK MAX ²⁰²²" ,
+            "value": "© SL-ASIATA ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
