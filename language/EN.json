@@ -1,9 +1,9 @@
 {
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "AUTHOR"  : "Thisan",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "asiata" : {   
                             "COMMAND"  : "Command",
                             "DESC"     : "Description",
                             "EXAMPLE"  : "Example",
